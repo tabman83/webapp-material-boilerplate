@@ -1,0 +1,8 @@
+{
+  "name": "webapp-boilerplate",
+  "private": true,
+  "dependencies": {
+    "angular-ui-router": "^0.3.1",
+    "angular-material": "^1.0.9"
+  }
+}
